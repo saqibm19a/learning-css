@@ -1,0 +1,37 @@
+/* Last Rule */
+
+/* *{
+    color: red;
+}
+
+p{
+    color: aqua !important;
+}
+
+#kl{
+    color: green;
+}
+
+p i{
+    color: brown;
+}
+
+p b{
+    color: yellow;
+}"  */
+
+/* Inheritance */
+
+body{
+    color: red;
+    border: 1px solid blue;
+    background-color: wheat;
+    padding: 20px;
+}
+
+.kl{
+    background-color: pink;
+    border: inherit;
+    padding: inherit;
+    
+}
